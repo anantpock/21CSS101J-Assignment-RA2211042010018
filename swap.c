@@ -2,7 +2,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("RA2211042010027\n");
     int var1, var2, temp; 
 printf("Enter two integersn");
 scanf("%d%d", &var1, &var2);
