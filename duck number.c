@@ -3,7 +3,6 @@
 
 main()
 {
-    printf("RA2211042010027\n");
     printf("enter a number");
     int a=0,b;
     scanf(" %d",&b);
@@ -24,7 +23,3 @@ main()
         printf("not a duck number");
     }
 }
-/*output:
-enter a number909
-duck number
-*/
