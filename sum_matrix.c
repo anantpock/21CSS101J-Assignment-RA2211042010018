@@ -3,7 +3,6 @@
 
 main()
 {
-  printf("RA2211042010027\n");
   int a,b;
   printf("enter number of rows and column");
   scanf(" %d %d", &a,&b);
