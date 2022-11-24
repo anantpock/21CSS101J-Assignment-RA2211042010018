@@ -2,7 +2,6 @@
 #include<stdio.h>
 main()
 {
-    printf("RA2211042010027\n");
     printf("1.v=u+at\n 2.s=ut+1/2at^2\n 3.a=(v^2-u^2)/2s\n");
     int menu;
     scanf(" %d",&menu);
