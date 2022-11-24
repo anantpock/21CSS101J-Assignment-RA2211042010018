@@ -3,7 +3,6 @@
 
 int main()
 {
-    printf("RA2211042010027\n");
     printf("enter a number");
     int a,c=0;
     scanf("%d",&a);
@@ -19,7 +18,3 @@ int main()
     }
     printf("no.of odd number=%d",c);
 }
-/*output:
-enter a number56789
-no.of odd number=3
- */
