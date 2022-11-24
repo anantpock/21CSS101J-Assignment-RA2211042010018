@@ -1,4 +1,3 @@
-/*newton laws*/
 #include<stdio.h>
 main()
 {
