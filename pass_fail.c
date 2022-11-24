@@ -3,7 +3,6 @@
 
 int main()
 {
-    printf("RA2211042010027\n");
     printf("enter marks of maths, science,english");
     int m,s,e;
     scanf("%d %d %d",&m,&s,&e);
