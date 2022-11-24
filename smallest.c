@@ -15,8 +15,3 @@ int main()
        printf("smallest is=%d",b);
    }
 }
-/*output:
-enter 2umber54
-45
-smallest is=45
- */
