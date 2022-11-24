@@ -22,7 +22,5 @@ main()
         printf(" not a neon number");
     }
 }
-/*output:
-enter a number9
-neon number
-*/
+
+
