@@ -19,9 +19,3 @@ int main()
        printf("smallest is=%d",c);
    }
 }
-/*output:
-enter3number32
-23
-12
-smallest is=1
- */
