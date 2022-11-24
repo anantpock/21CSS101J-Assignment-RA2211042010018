@@ -3,7 +3,6 @@
 
 int main()
 {
-    printf("RA2211042010027\n");
     printf("enter a number");
     int a,b,r=0;
     scanf(" %d",&a);
