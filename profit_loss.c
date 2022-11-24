@@ -3,7 +3,6 @@
 
 int main()
 {
-    printf("RA2211042010027\n");
     printf("enter sales price and cost price");
     int a,b;
     scanf("%d %d",&a,&b);
@@ -18,8 +17,3 @@ int main()
         printf("loss=%d",l);
     }
 }
-/*output:
-enter sales price and cost price567
-675
-loss=108
- */
