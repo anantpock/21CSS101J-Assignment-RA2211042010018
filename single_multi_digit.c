@@ -3,7 +3,6 @@
 
 int main()
 {
-    printf("RA2211042010027\n");
     printf("enter number");
     int a;
     scanf("%d",&a);
@@ -18,7 +17,3 @@ int main()
         printf("singledigit number");
     }
 }
-/*output:
-enter number8
-singledigit number
- */
