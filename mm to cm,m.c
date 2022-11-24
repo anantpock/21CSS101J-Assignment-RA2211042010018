@@ -3,7 +3,6 @@
 
 main()
 {
-    printf("RA2211042010027\n");
     float mm,cm,mtr;
     printf("enter lenght in millimeter");
     scanf("%f",&mm);
