@@ -26,7 +26,3 @@ main()
     }
 }
 
-/*output:
-enter month number7
-rainy
-*/
