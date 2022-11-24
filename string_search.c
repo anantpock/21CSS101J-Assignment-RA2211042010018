@@ -17,3 +17,5 @@ int main()
             }
     printf("number of times repeated= %d",a);
 }
+
+    
