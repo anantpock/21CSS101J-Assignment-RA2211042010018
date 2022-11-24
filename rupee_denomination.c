@@ -3,7 +3,6 @@
 
 int main()
 {
-    printf("RA2211042010027\n");
     printf("enter a rupees");
     int o,t,f,te,fi,h,fh,tt,th,tw;
     scanf("%d",&o);
@@ -27,15 +26,3 @@ int main()
     o%=2;
     printf("no.of two thousands= %d\n no. of five hundred= %d\n no.oftwo hundred= %d\n no. of hundred= %d\n no. of fifty= %d\n no. of twenty= %d\n no.of ten= %d\n no. of five= %d\n no. of two= %d\n no. of ones= %d\n",tt,fh,th,h,fi,tw,te,f,t,o);
 }
-/*output:
-enter a rupees1228474855
-no.of two thousands= 614237
- no. of five hundred= 1
- no.oftwo hundred= 1
- no. of hundred= 1
- no. of fifty= 1
- no. of twenty= 0
- no.of ten= 0
- no. of five= 1
- no. of two= 0
- no. of ones= 0*/
