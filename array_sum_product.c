@@ -3,7 +3,6 @@
 
 main()
 {
-  printf("RA2211042010027\n");
   int A[5],B[5],C[5],D[5];
   printf("enter 5 elements of A\n");
   for(int a=0;a<5;a++)
