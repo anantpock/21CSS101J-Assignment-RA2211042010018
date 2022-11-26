@@ -25,3 +25,7 @@ main()
         printf(" not nelson number");
     }
 }
+
+
+
+
