@@ -23,3 +23,7 @@ main()
         printf("not a duck number");
     }
 }
+
+
+
+
