@@ -25,7 +25,3 @@ main()
         printf(" not nelson number");
     }
 }
-/*output:
-Enter the number888
-nelson number
-*/
