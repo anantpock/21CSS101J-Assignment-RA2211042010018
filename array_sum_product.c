@@ -24,3 +24,5 @@ main()
       printf(" %d %d\n",C[a],D[a]);
   }
 }
+
+
