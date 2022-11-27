@@ -1,4 +1,4 @@
-/* no. arranger*/
+
 #include <stdio.h>
 
 int main()
@@ -64,11 +64,4 @@ int main()
         printf("smallest element= %d\n",c);
     }
 }
-/*output:
-enter a3number21   
-12
-65
-largest element =65
-middle element= 21
-smallest element= 12
- */
+
