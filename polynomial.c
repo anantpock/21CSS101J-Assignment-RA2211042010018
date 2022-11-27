@@ -1,4 +1,4 @@
-/*polynomial value Z=3x^3-2x^2-x-12*/
+
 #include <stdio.h>
 
 main()
