@@ -1,4 +1,3 @@
-/*mersene number*/
 #include<stdio.h>
 main()
 {  
@@ -28,7 +27,6 @@ main()
         printf("not mersene number");
     }
 }
-/*output:
-Enter the number7
-mersene number
-*/
+
+
+
