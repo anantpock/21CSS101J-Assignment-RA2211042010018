@@ -1,4 +1,4 @@
-/*single digit number or multidigit number*/
+
 #include <stdio.h>
 
 int main()
