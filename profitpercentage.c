@@ -1,4 +1,4 @@
-/*profit loss*/
+]
 #include <stdio.h>
 
 int main()
