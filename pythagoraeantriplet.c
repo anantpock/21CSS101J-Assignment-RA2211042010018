@@ -1,4 +1,4 @@
-/*phythagoraean triplet*/
+
 #include <stdio.h>
 
 int main()
@@ -15,9 +15,3 @@ int main()
         printf("not a phythagoraean triplet");
     }
 }
-/*output:
-enter three numbers3
-4
-5
-phythagoraean triplet
- */
