@@ -18,7 +18,3 @@ int main()
         printf("fail");
     }
 }
-
-
-
-
