@@ -15,8 +15,3 @@ main()
     }
     printf("lcm=%d",c);
 }
-/*output:
-Enter two number15
-10
-lcm=30
-*/
