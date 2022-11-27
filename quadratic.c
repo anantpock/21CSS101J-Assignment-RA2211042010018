@@ -1,4 +1,4 @@
-/*nature of roots for quadratic equation*/
+
 #include<stdio.h>
 main()
 {
