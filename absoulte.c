@@ -15,7 +15,4 @@ int main()
         printf("%d",(-a));
     }
 }
-/*output:
-enter no.-7
-7
- */
+]
