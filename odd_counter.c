@@ -1,4 +1,4 @@
-/* odd digits counter*/
+
 #include <stdio.h>
 
 int main()
