@@ -1,4 +1,4 @@
-/*smallest number*/
+
 #include <stdio.h>
 
 int main()
@@ -19,3 +19,5 @@ int main()
        printf("smallest is=%d",c);
    }
 }
+
+
