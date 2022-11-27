@@ -1,4 +1,3 @@
-/*find simple interest*/
 #include <stdio.h>
 
 main()
