@@ -1,4 +1,4 @@
-/*print table */
+
 #include<stdio.h>
 main()
 {
@@ -10,3 +10,5 @@ main()
       printf(" %d\n",p);
   }
 }
+
+
