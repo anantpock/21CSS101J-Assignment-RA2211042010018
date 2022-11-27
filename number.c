@@ -1,4 +1,3 @@
-/*odius number*/
 #include<stdio.h>
 main()
 {  
@@ -28,7 +27,4 @@ main()
         printf("not odius number");
     }
 }
-/*output:
-Enter the number10
-not odius number
-*/
+
