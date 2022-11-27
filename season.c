@@ -1,4 +1,4 @@
-/*find season*/
+
 #include <stdio.h>
 
 main()
