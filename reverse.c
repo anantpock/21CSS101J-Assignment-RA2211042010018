@@ -1,4 +1,3 @@
-/*digit reverse*/
 #include <stdio.h>
 
 int main()
@@ -15,6 +14,3 @@ int main()
     }
     printf("reverse of %d= %d",a,r);
 }
-/*output:
-enter a number123
-reverse of 123= 321*/
