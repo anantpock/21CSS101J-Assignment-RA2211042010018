@@ -1,4 +1,4 @@
-/*neon number*/
+\
 #include <stdio.h>
 
 main()
