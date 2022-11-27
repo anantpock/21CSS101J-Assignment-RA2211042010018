@@ -1,4 +1,4 @@
-/*sum of square until n*/
+
 #include<stdio.h>
 main()
 {  
@@ -11,3 +11,5 @@ main()
     }
     printf("sum=%d",sum);
 }
+
+
