@@ -15,6 +15,3 @@ int main()
         printf("consonent");
     }
 }
-/*output:
-enter a characterb
-consonent*/
