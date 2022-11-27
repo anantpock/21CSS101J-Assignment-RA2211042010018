@@ -1,4 +1,4 @@
-/*pass fail*/
+
 #include <stdio.h>
 
 int main()
@@ -18,9 +18,5 @@ int main()
         printf("fail");
     }
 }
-/*output:
-enter marks of maths, science,english23
-45
-12
-fail
- */
+
+
