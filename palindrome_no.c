@@ -1,4 +1,4 @@
-/*palindrome number*/
+
 #include <stdio.h>
 
 int main()
@@ -21,7 +21,6 @@ int main()
         printf("not palindrome number");
     }
 }
-/*output:
-enter number121
-palindrome number
- */
+
+
+
