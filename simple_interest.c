@@ -9,3 +9,5 @@ main()
     si=p*r*t/100;
     printf("simple interest=%f",si);
 }
+
+
