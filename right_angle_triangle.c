@@ -1,4 +1,4 @@
-/*right angle triangle*/
+
 #include <stdio.h>
 
 int main()
@@ -15,9 +15,3 @@ int main()
         printf("not a right angle triangle");
     }
 }
-/*output:
-enter three numbers3
-4
-5
-right angle triangle
- */
