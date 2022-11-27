@@ -15,3 +15,5 @@ int main()
        printf("smallest is=%d",b);
    }
 }
+
+
