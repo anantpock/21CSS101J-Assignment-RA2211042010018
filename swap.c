@@ -1,4 +1,4 @@
-//swap 2 number
+
 #include <stdio.h>
 int main()
 {
@@ -12,3 +12,5 @@ var2 = temp;
 printf("After SwappingnFirst variable = %d\nSecond variable = %d\n", var1, var2);
 return 0;
 }
+
+
