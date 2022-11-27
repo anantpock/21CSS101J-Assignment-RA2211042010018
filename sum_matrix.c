@@ -1,4 +1,4 @@
-/*find sum of matrix*/
+
 #include <stdio.h>
 
 main()
@@ -40,3 +40,5 @@ main()
       }
   }
 }
+
+
