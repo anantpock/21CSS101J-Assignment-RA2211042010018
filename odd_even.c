@@ -1,4 +1,4 @@
-/*odd evennumber*/
+
 #include <stdio.h>
 
 int main()
@@ -15,7 +15,4 @@ int main()
         printf("odd number");
     }
 }
-/*output:
-enter number67
-odd number
- */
+
