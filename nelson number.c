@@ -1,5 +1,4 @@
-/*nelson number*/
-#include<stdio.h>
+include<stdio.h>
 main()
 {  
     int n,d=0;  
@@ -25,6 +24,7 @@ main()
         printf(" not nelson number");
     }
 }
+
 
 
 
