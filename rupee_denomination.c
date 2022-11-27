@@ -1,4 +1,3 @@
-/*rupee denomination*/
 #include <stdio.h>
 
 int main()
