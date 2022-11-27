@@ -1,4 +1,4 @@
-/*sum of series s=(1*2)+(2*3)+...(n*(n-1))*/
+
 #include<stdio.h>
 main()
 {  
@@ -11,7 +11,4 @@ main()
     }
     printf("sum=%d",sum);
 }
-/*output:
-Enter the number3
-sum=8
-*/
+
