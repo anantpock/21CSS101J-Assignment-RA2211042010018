@@ -1,4 +1,4 @@
-/*give menu and give user choice to find perimeter,area, diagonal of rectangle*/
+
 #include <stdio.h>
 
 main()
