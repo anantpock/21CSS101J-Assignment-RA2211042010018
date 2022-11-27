@@ -1,4 +1,4 @@
-/*leap year*/
+
 #include <stdio.h>
 
 int main()
@@ -15,7 +15,7 @@ int main()
         printf("not a leap year");
     }
 }
-/*output:
-eenter year2004
-leap year
- */
+
+
+
+
