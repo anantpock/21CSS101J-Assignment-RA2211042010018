@@ -1,4 +1,4 @@
-/*use of shorthand operator*/
+
 #include<stdio.h>
 main()
 {
