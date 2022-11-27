@@ -1,4 +1,4 @@
-/*quadrant finder*/
+
 #include <stdio.h>
 
 int main()
@@ -27,6 +27,4 @@ int main()
         printf("4th Quadrant");
     }
 }
-/*output:
-enter a angle 1081
-1st Quadrant*/
+]]
