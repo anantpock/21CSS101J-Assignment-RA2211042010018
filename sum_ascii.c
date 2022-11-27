@@ -1,4 +1,4 @@
-/*sum of ascii value*/
+
 #include <stdio.h>
 
 int main()
@@ -9,7 +9,7 @@ int main()
     int sum=a+b;
     printf("sum= %d",sum);
 }
-/*output:
-enter two charactersa
-b
-sum= 195*/
+
+
+
+
